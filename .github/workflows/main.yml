@@ -4,7 +4,7 @@ env:
   kernel_repository: LineageOS/android_kernel_xiaomi_msm8996
   kernel_branch: lineage-21
   device: gemini
-  clang_version: r365631c
+  clang_version: r487747c
   defconfig: |
     vendor/xiaomi/mi8996_defconfig
     vendor/xiaomi/gemini.config
